@@ -2,10 +2,10 @@
 // @name         m-team 馒头 列表缩略图
 // @namespace    https://github.com/xianSheng-yo/m-team-image-thumbnail/edit/main/image-thumbnail.user.js
 // @author       xianSheng-yo
-// @version      1.0.03-2025-05-19
+// @version      1.0.04-2025-05-19
 // @description  馒头站列表显示缩略图，鼠标移入放大预览。
 // @copyright    2025, xianSheng-yo (https://github.com/xianSheng-yo)
-// @match        https://*.m-team.cc/*
+// @match        https://*.m-team.cc/browse/*
 // @icon         https://static.m-team.cc/static/media/logo.80b63235eaf702e44a8d.png
 // @grant        unsafeWindow
 // @run-at       document-start
