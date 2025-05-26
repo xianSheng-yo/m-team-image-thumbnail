@@ -23,9 +23,7 @@
 
   const appendImageElement = (data) => {
     const timer = setTimeout(() => {
-      const tbody = document.querySelector(
-        "#app-content > div > div.mt-4.app-content__inner > div > div > div.ant-spin-nested-loading.css-khj4yb > div > div > table > tbody"
-      );
+      const tbody = document.querySelector("tbody");
       const trs = tbody.childNodes;
       document
         .querySelectorAll(`.${thumbnailImgClassName}`)
